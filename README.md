@@ -9,9 +9,9 @@ Copy_of_gpt3_5_turbo.ipynb - Fine tune gpt3.5-turbo with different poison level
 
 Surrogate_model.ipynb - Select the sentences for improved prefix injection
 
-FineTuneBertLarge.ipynb - Fine tune bert_large
+FineTuneBertLarge.ipynb - Fine tune bert_large with different poison level
 
-FineTuneBert.ipynb - Fine tune bert
+FineTuneBert.ipynb - Fine tune bert with different poison level
 
-Copy of gpt2.ipynb - Fine tune gpt2
+Copy of gpt2.ipynb - Fine tune gpt2 with different poison level
 
